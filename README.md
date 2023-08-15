@@ -1,3 +1,5 @@
+# TreinaWeb - Projeto prático de deploy Laravel VPS
+
 ## Passos para configurar a aplicação
 
 ### Clonar o repositório
@@ -46,4 +48,6 @@ php artisan migrate
 php artisan key:generate
 ```
 
+## Configurar o deploy
 
+As instruções de deploy estão no arquivo [.github/Deploy.md](.github/Deploy.md).
